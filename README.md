@@ -17,5 +17,12 @@ The list of object that it can detect are listed below:
 It has pretty good accuracy. For this we don't have to train any model. It already has opencv model for detection face then it's also have already train neural netwotk model to reconigze for gender.
 
 For Running this project we can open through cmd by calling Run.py or by direct clicking on testing.py will also open in cmd. Or through any text editor biscally it will works fine with idle of python. You can also try with other editor too but i am not sure about whether it will run on other editor or not. But Dont't worry it will work perfectfly on cmd. if any help is needed you can contact me on below address:
+hemrajdhakal.ml@gmail.com
 
-np05cp4a190064@iic.edu.np
+## Images
+![image](https://user-images.githubusercontent.com/65659902/125184227-b6a2c300-e23b-11eb-9bf6-c1bdb68370d6.png)
+
+![image](https://user-images.githubusercontent.com/65659902/125184242-ec47ac00-e23b-11eb-9866-e978bc76278a.png)
+
+![image](https://user-images.githubusercontent.com/65659902/125184372-cbcc2180-e23c-11eb-994e-1061f749f43b.png)
+
